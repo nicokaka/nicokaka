@@ -86,14 +86,8 @@ I build the tools I wish existed — from IT asset management platforms to threa
 
 <p align="center">
   <a href="https://github.com/nicokaka">
-    <img src="https://streak-stats.demolab.com/?user=nicokaka&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="165"/>
+    <img src="https://streak-stats.demolab.com/?user=nicokaka&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicokaka&theme=github_dark" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicokaka&theme=github_dark" alt="Top Languages" height="165"/>
 </p>
 
 ---
