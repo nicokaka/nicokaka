@@ -6,7 +6,7 @@
 I build the tools I wish existed — from IT asset management platforms to threat detection engines.
 
 🎓 Computer Science — Universidade Federal de Pernambuco (UFPE)  
-📍 Recife, Brazil → New Zealand 🇳🇿 *(relocating for MSc in Cybersecurity)*
+📍 Recife, Brazil 
 
 ---
 
