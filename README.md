@@ -82,6 +82,22 @@ I build the tools I wish existed — from IT asset management platforms to threa
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/nicokaka">
+    <img src="https://streak-stats.demolab.com/?user=nicokaka&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="165"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicokaka&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicokaka&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
+---
+
 ### 👤 About Me
 
 I'm a Computer Science student at UFPE (final year) with 5 years of hands-on IT experience at **Hebron Pharmaceuticals**, where I manage infrastructure across 300+ endpoints — MDM policies, EDR deployment, ZTNA configurations, and everything in between.
