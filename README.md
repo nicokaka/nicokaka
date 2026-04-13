@@ -91,9 +91,9 @@ I build the tools I wish existed — from IT asset management platforms to threa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicokaka&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicokaka&theme=github_dark" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicokaka&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicokaka&theme=github_dark" alt="Top Languages" height="165"/>
 </p>
 
 ---
