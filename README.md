@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="#-sobre-mim">🇧🇷 Português</a>
+</p>
+
 # Hey, I'm Nicolas 👋
 
 **IT & Security Professional** — I build secure software to solve real-world problems.
@@ -6,7 +10,7 @@
 I build the tools I wish existed — from IT asset management platforms to threat detection engines.
 
 🎓 Computer Science — Universidade Federal de Pernambuco (UFPE)  
-📍 Recife, Brazil 
+📍 Recife, Brazil
 
 ---
 
@@ -100,7 +104,7 @@ I build software not as an academic exercise, but to solve real operational prob
 
 My approach to security is practical: every application I build incorporates security controls from the architecture stage — RBAC, audit trails, session management, input validation — because secure-by-design is not a feature, it's a discipline.
 
-I'm preparing to pursue a **Master's degree in New Zealand**, specializing in **Cybersecurity**. My goal is to bridge the gap between IT operations and security engineering — building systems that are secure by design, not by afterthought.
+My goal is to bridge the gap between IT operations and security engineering — building systems that are secure by design, not by afterthought.
 
 ---
 
@@ -108,6 +112,48 @@ I'm preparing to pursue a **Master's degree in New Zealand**, specializing in **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicokaka)
+
+---
+
+<details>
+<summary><h2>🇧🇷 Sobre Mim</h2></summary>
+
+### Olá, sou o Nicolas 👋
+
+**Profissional de TI & Segurança** — construo software seguro para resolver problemas reais.
+
+Atuando há 5 anos no setor de TI da **Hebron Farmacêutica**, onde administro a infraestrutura de mais de 300 endpoints — políticas de MDM, EDR, ZTNA e tudo mais que envolve gestão de ativos e segurança corporativa.
+
+Sou estudante de **Ciência da Computação na UFPE** (último período) e estou me especializando em **Cybersecurity**, com foco nas certificações CompTIA Security+, Fortinet FCA/FCF e Microsoft SC-200.
+
+---
+
+### 🔭 Projetos em Destaque
+
+> Eu não construo projetos de demonstração. Tudo aqui resolve um problema real — para minha empresa, minha família, ou meu laboratório de segurança.
+
+| Projeto | O que resolve | Stack |
+|:--------|:-------------|:------|
+| 🛡️ **[AssetDock](https://github.com/nicokaka/assetdock)** | Plataforma de gestão de ativos de TI multi-tenant — RBAC, trilha de auditoria, autenticação por sessão com proteção CSRF | `Spring Boot` `React` `PostgreSQL` `Docker` |
+| 🔍 **[Homelab Threat Detection](https://github.com/nicokaka/homelab-threat-detection)** | Laboratório de engenharia de detecção — motor de detecção de brute-force com bloqueio automático em tempo real, mapeado ao MITRE ATT&CK | `Python` `iptables` `VirtualBox` |
+| 🤖 **[Smart Service Desk Automator](https://github.com/nicokaka/smart-service-desk-automator)** | Gestão automatizada de chamados com IA — arquitetura dual-path (REST API + fallback via Playwright) com integração ao Gemini AI | `Electron` `Node.js` `Playwright` `Gemini AI` |
+| 🚛 **[Açucena Fleet Manager](https://github.com/nicokaka/gestao-acucena)** | App de gestão de frota offline-first para logística rural — RBAC, trilha de auditoria, comissionamento | `Flutter` `Firebase` `Dart` |
+| ⚡ **[HebronLine Optimizer](https://github.com/nicokaka/project-hebronline-optimizer)** | RPA em browser que reduziu em 90% a digitação manual em fluxos de CRM/PDV | `JavaScript` `Tampermonkey` |
+| 📄 **[HebronAutoXML](https://github.com/nicokaka/hebron-autoxml)** | Pipeline automatizado de download de XMLs de NF-e/CT-e para conformidade contábil | `Python` `Desktop App` |
+
+---
+
+### 👤 Minha Trajetória
+
+Sou formando em Ciência da Computação pela **UFPE** e atuo há 5 anos como Assistente de TI Pleno na **Hebron Farmacêutica**, onde gerencio a infraestrutura de mais de 300 endpoints — desde políticas de MDM e deploy de EDR até configurações de ZTNA.
+
+Construo software não como exercício acadêmico, mas para resolver problemas operacionais reais: um app de gestão de frota para a empresa de logística da família, uma ferramenta de RPA que eliminou horas de digitação manual no trabalho, um motor de detecção que bloqueia ataques de brute-force automaticamente em segundos.
+
+Minha abordagem de segurança é prática: toda aplicação que construo incorpora controles de segurança desde a fase de arquitetura — RBAC, trilhas de auditoria, gerenciamento de sessão, validação de entrada — porque segurança por design não é uma feature, é uma disciplina.
+
+Meu objetivo é ser a ponte entre operações de TI e engenharia de segurança — construindo sistemas que são seguros por design, não por remendo.
+
+</details>
 
 <!-- 
   ╔══════════════════════════════════════════════════════════════╗
