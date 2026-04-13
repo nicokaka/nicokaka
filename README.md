@@ -100,7 +100,7 @@ I build the tools I wish existed — from IT asset management platforms to threa
 
 I'm a Computer Science student at UFPE (final year) with 5 years of hands-on IT experience at **Hebron Pharmaceuticals**, where I manage infrastructure across 300+ endpoints — MDM policies, EDR deployment, ZTNA configurations, and everything in between.
 
-I build software not as an academic exercise, but to solve real operational problems: a fleet management app for a family logistics business, an RPA tool that eliminated hours of manual data entry at work, a detection engine that auto-blocks brute-force attacks in seconds.
+I build software not as an academic exercise, but to solve real operational problems: a fleet management app for a family logistics business, an RPA tool that eliminated hours of manual data entry at work, a detection engine that auto-blocks brute-force attacks in seconds. One example: I built **[InventarioHB2](https://github.com/nicokaka/InventarioHB2)**, a custom IT asset management system tailored specifically for Hebron's infrastructure — and from the lessons learned there, I architected **[AssetDock](https://github.com/nicokaka/assetdock)**, a universal, multi-tenant ITAM platform built with security-first principles.
 
 My approach to security is practical: every application I build incorporates security controls from the architecture stage — RBAC, audit trails, session management, input validation — because secure-by-design is not a feature, it's a discipline.
 
@@ -147,7 +147,7 @@ Sou estudante de **Ciência da Computação na UFPE** (último período) e estou
 
 Sou formando em Ciência da Computação pela **UFPE** e atuo há 5 anos como Assistente de TI Pleno na **Hebron Farmacêutica**, onde gerencio a infraestrutura de mais de 300 endpoints — desde políticas de MDM e deploy de EDR até configurações de ZTNA.
 
-Construo software não como exercício acadêmico, mas para resolver problemas operacionais reais: um app de gestão de frota para a empresa de logística da família, uma ferramenta de RPA que eliminou horas de digitação manual no trabalho, um motor de detecção que bloqueia ataques de brute-force automaticamente em segundos.
+Construo software não como exercício acadêmico, mas para resolver problemas operacionais reais: um app de gestão de frota para a empresa de logística da família, uma ferramenta de RPA que eliminou horas de digitação manual no trabalho, um motor de detecção que bloqueia ataques de brute-force automaticamente em segundos. Um bom exemplo: criei o **[InventarioHB2](https://github.com/nicokaka/InventarioHB2)**, um sistema de gestão de ativos feito sob medida para a infraestrutura da Hebron — e a partir da experiência adquirida com ele, arquitetei o **[AssetDock](https://github.com/nicokaka/assetdock)**, uma plataforma universal e multi-tenant de gestão de ativos construída com segurança desde o primeiro commit.
 
 Minha abordagem de segurança é prática: toda aplicação que construo incorpora controles de segurança desde a fase de arquitetura — RBAC, trilhas de auditoria, gerenciamento de sessão, validação de entrada — porque segurança por design não é uma feature, é uma disciplina.
 
