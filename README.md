@@ -9,7 +9,7 @@
 5 years managing enterprise infrastructure (300+ endpoints, MDM, EDR, ZTNA) at a pharmaceutical company.  
 I build the tools I wish existed — from IT asset management platforms to threat detection engines.
 
-🎓 Computer Science — Universidade Federal de Pernambuco (UFPE)  
+🎓 Computer Science — Universidade Federal  Rural de Pernambuco (UFRPE)  
 📍 Recife, Brazil
 
 ---
